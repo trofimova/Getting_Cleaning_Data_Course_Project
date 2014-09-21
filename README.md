@@ -13,4 +13,5 @@ You should create one R script called run_analysis.R that does the following.
 ## Steps to work on this course project
 
 1. Download the data source and put into a folder on your local drive. You'll have a ```UCI HAR Dataset``` folder.
-2. Put ```run_analysis.R``` in the parent folder of ```UCI HAR Dataset``` and change all the pathes for reading the files
+2. Put ```run_analysis.R``` in the parent folder of ```UCI HAR Dataset``` and change the working directory to be able to read the files
+3. the output is the tidy data set
